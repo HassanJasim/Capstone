@@ -12,18 +12,22 @@ This Privacy Policy was created using Termly’s Privacy Policy Generator.
 
 
 COLLECTION OF YOUR INFORMATION
+
 We may collect information about you in a variety of ways. The information we may collect on the app includes:
 - email address used to login 
 - any information provided to us through the app
 
-USE OF YOUR INFORMATION 
+USE OF YOUR INFORMATION
+
 We reserve the right to use the information entered on the app as we see fit.
 
 DISCLOSURE OF YOUR INFORMATION
+
 We may share information you have entered through the app in certain situations. Your email address will not be disclosed.  
 
 
 SECURITY OF YOUR INFORMATION
+
 We use administrative, technical, and physical security measures to help protect your personal information.  While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.  Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
 
 
