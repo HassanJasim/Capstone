@@ -1,1 +1,1 @@
-## For Support Contact dev@capstoneintelligence.com
+# for support contact DEV@CAPSTONEINTELLIGENCE.COM
