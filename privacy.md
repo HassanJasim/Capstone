@@ -11,19 +11,27 @@ You are encouraged to periodically review this Privacy Policy to stay informed o
 This Privacy Policy was created using Termly’s Privacy Policy Generator. 
 
 
+
+
 COLLECTION OF YOUR INFORMATION
 
 We may collect information about you in a variety of ways. The information we may collect on the app includes:
 - email address used to login 
 - any information provided to us through the app
 
+
+
 USE OF YOUR INFORMATION
 
 We reserve the right to use the information entered on the app as we see fit.
 
+
+
 DISCLOSURE OF YOUR INFORMATION
 
 We may share information you have entered through the app in certain situations. Your email address will not be disclosed.  
+
+
 
 
 SECURITY OF YOUR INFORMATION
